@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\CodeTasks\Serial\SerialzationTask\bin\Debug\net8.0\SerialzationTask.exe
+C:\Users\Administrator\Desktop\CodeTasks\Serial\SerialzationTask\bin\Debug\net8.0\SerialzationTask.deps.json
+C:\Users\Administrator\Desktop\CodeTasks\Serial\SerialzationTask\bin\Debug\net8.0\SerialzationTask.runtimeconfig.json
+C:\Users\Administrator\Desktop\CodeTasks\Serial\SerialzationTask\bin\Debug\net8.0\SerialzationTask.dll
+C:\Users\Administrator\Desktop\CodeTasks\Serial\SerialzationTask\bin\Debug\net8.0\SerialzationTask.pdb
+C:\Users\Administrator\Desktop\CodeTasks\Serial\SerialzationTask\obj\Debug\net8.0\SerialzationTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CodeTasks\Serial\SerialzationTask\obj\Debug\net8.0\SerialzationTask.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CodeTasks\Serial\SerialzationTask\obj\Debug\net8.0\SerialzationTask.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CodeTasks\Serial\SerialzationTask\obj\Debug\net8.0\SerialzationTask.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CodeTasks\Serial\SerialzationTask\obj\Debug\net8.0\SerialzationTask.sourcelink.json
+C:\Users\Administrator\Desktop\CodeTasks\Serial\SerialzationTask\obj\Debug\net8.0\SerialzationTask.dll
+C:\Users\Administrator\Desktop\CodeTasks\Serial\SerialzationTask\obj\Debug\net8.0\refint\SerialzationTask.dll
+C:\Users\Administrator\Desktop\CodeTasks\Serial\SerialzationTask\obj\Debug\net8.0\SerialzationTask.pdb
+C:\Users\Administrator\Desktop\CodeTasks\Serial\SerialzationTask\obj\Debug\net8.0\SerialzationTask.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CodeTasks\Serial\SerialzationTask\obj\Debug\net8.0\ref\SerialzationTask.dll
